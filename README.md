@@ -1,16 +1,56 @@
-## Hi there 👋
+# troccaman@github:~$
 
-<!--
-**troccaman/troccaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+devops engineering student @ nackademin / sweden
 
-Here are some ideas to get you started:
+```bash
+focus=(
+  linux
+  bash
+  python
+  networking
+  security
+  automation
+  cloud
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+goal="build production-ready infrastructure"
+```
+
+## roadmap
+
+```text
+[x] 00-init
+[x] 01-linux-fundamentals
+[x] 02-bash-scripting
+[x] 03-python-programming
+[x] 04-sql-databases
+[x] 05-git-essentials
+[x] 06-networking-basics
+[x] 07-windows-server
+[x] 08-security-analysis
+[x] 09-agile-methodologies
+
+[ ] 10-docker-containers
+[ ] 11-cloud-fundamentals
+[ ] 12-terraform-iac
+[ ] 13-ci-cd-pipelines
+[ ] 14-kubernetes
+```
+
+## current_status
+
+```bash
+learning=(
+  docker
+  cloud
+  infrastructure-automation
+)
+
+target="junior-devops-engineer"
+```
+
+## repositories
+
+```text
+coming soon...
+```
