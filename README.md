@@ -19,7 +19,6 @@ goal="build production-ready infrastructure"
 ## roadmap
 
 ```text
-[x] 00-init
 [x] 01-linux-fundamentals
 [x] 02-bash-scripting
 [x] 03-python-programming
@@ -47,10 +46,4 @@ learning=(
 )
 
 target="junior-devops-engineer"
-```
-
-## repositories
-
-```text
-coming soon...
 ```
