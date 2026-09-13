@@ -28,9 +28,9 @@ goal="build production-ready infrastructure"
 [x] 07-windows-server
 [x] 08-security-analysis
 [x] 09-agile-methodologies
+[x] 10-docker-containers
+[x] 11-cloud-fundamentals
 
-[ ] 10-docker-containers
-[ ] 11-cloud-fundamentals
 [ ] 12-terraform-iac
 [ ] 13-ci-cd-pipelines
 [ ] 14-kubernetes
@@ -40,8 +40,6 @@ goal="build production-ready infrastructure"
 
 ```bash
 learning=(
-  docker
-  cloud
   infrastructure-automation
 )
 
